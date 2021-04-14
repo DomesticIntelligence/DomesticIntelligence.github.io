@@ -73,11 +73,9 @@ font_settings:
   # font_embed: '<link href="https://fonts.googleapis.com/css?family=Muli:300,400,600,700" rel="stylesheet">'
   font_embed: '<style type="text/css">
      @font-face {
-       font-family: 'Conv_SansForgetica-Regular';
-       src: url('Fonts/SansForgetica-Regular.eot');
-       src: local('☺'), url('Fonts/SansForgetica-Regular.woff') format('woff'), url('Fonts/SansForgetica-Regular.ttf') format('truetype'), url('Fonts/SansForgetica-Regular.svg') format('svg');
-       font-weight: normal;
-       font-style: normal;
+       font-family:'Conv_SansForgetica-Regular';
+       src:url('Fonts/SansForgetica-Regular.eot');
+       src:local('☺'), url('Fonts/SansForgetica-Regular.woff') format('woff'), url('Fonts/SansForgetica-Regular.ttf') format('truetype'), url('Fonts/SansForgetica-Regular.svg') format('svg');
       }
 </style>'
   # title_font: '"Muli", sans-serif'
